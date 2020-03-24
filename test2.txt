@@ -1,4 +1,4 @@
-Hello Git 123
+Hello Git
 It's a new line
 New line
 Another new line
